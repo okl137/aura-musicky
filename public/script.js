@@ -1,4 +1,4 @@
-const API_BASE = window.API_BASE || (window.location.hostname === 'localhost' ? 'http://localhost:3000' : 'https://your-koyeb-app-name.koyeb.app');
+const API_BASE = window.API_BASE || (window.location.hostname === 'localhost' ? 'http://localhost:3000' : 'https://other-bobby-gerenokl-b17c7443.koyeb.app');
 
 document.addEventListener('DOMContentLoaded', () => {
     // State
@@ -2730,3 +2730,4 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 });
+
