@@ -11,7 +11,7 @@ const immersiveCover = document.getElementById('immersive-cover');
 
 const API_BASE = window.location.origin.includes('localhost')
     ? 'http://localhost:3000'
-    : 'https://your-render-service.onrender.com';
+    : 'https://modest-dana-musichoud-4f3fd488.koyeb.app/';
 
 // State
 let currentPlaylist = [];
