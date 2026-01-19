@@ -1,7 +1,7 @@
 const API_BASE = window.API_BASE || (
     window.location.hostname === 'localhost'
         ? 'http://localhost:3000'
-        : 'https://other-bobby-gerenokl-b17c7443.koyeb.app'
+        : 'https://modest-dana-musichoud-4f3fd488.koyeb.app/'
 );
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -3030,3 +3030,4 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 });
+
